@@ -43,5 +43,11 @@ Transform & Load
 
  
  8: Execution of Test Cases and create a Test Summary Report
+   ----------------------------------------------------------
+![Data Length ProductCatagoryID=1;](https://user-images.githubusercontent.com/53893019/80777559-4acac200-8b83-11ea-861f-abb90674cf95.JPG)
+
+![Fact table](https://user-images.githubusercontent.com/53893019/80777566-4e5e4900-8b83-11ea-9a0e-5593dc03bebd.JPG)
+
+![Commodity_Catagory_Source  Dupication](https://user-images.githubusercontent.com/53893019/80777583-5ae2a180-8b83-11ea-9577-fc2f87327140.JPG)
 
 
