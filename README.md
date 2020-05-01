@@ -11,6 +11,10 @@
  
  3: Preparation of Data Sources
   -----------------------------------
+  
+![Doc1-page-001](https://user-images.githubusercontent.com/53893019/80776967-561cee00-8b81-11ea-8028-0668d5e8791f.jpg)
+
+
  
  4: Solution Architecture  
   -----------------------------------
@@ -19,6 +23,8 @@
  
  5: Data warehouse design & development 
   -----------------------------------
+  ![Data Warehouse Design(Snowflakes Schema) -page-001](https://user-images.githubusercontent.com/53893019/80776794-cd05b700-8b80-11ea-854a-a2a2adc9959e.jpg)
+
  
  6: Test Planning and Design Test Cases
   -----------------------------------
